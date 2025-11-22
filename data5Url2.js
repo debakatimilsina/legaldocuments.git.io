@@ -1,24 +1,47 @@
 var data5Url2 = `sno,subject,description,shorturl,longurl
-01,फिरादपत्र,सम्बन्धविच्छेद-नेन्सी महतो,open pdf file,DOCPDF/फिरादपत्र नेन्सी महतो final.pdf
-02,पारिश्रमिक उपलब्ध गराई पाउँ,निवेदन,open pdf file,DOCPDF/IMG-8573479de6a7b08000e747ad56b26bbe-V.pdf
-03,online तारेखको सुविधा पाउँ,निवेदन,open pdf file,DOCPDF/online तारेख निवेदन २०८१.pdf
-04,अधिवक्ता-तहको-२९-औं-परीक्षाको-लागि-निर्धारित-नजीरहरू,नजिरनिकुञ्ज,open pdf file,DOCPDF/अधिवक्ता-तहको-२९-औं-परीक्षाको-लागि-निर्धारित-नजीरहरू.pdf
-05,मञ्जुरीनामा-नेपाल ल क्याम्पस,धरौटि रकम फिर्ता ,open pdf file,DOCPDF/मञ्जुरीनामा.pdf
-06,28 bar word file editing for 29 exam,NajirNikunja,open doc file,DOCWORD/28 bar word file editing for 29 exam.docx
-07,29 the Bar Exam New Najir Only,NajirNikunja,open doc file,DOCWORD/29 the Bar Exam New Najir Only.docx
-08,office book entri law firm and Room 2082,Book Entry,open doc file,DOCWORD/office book entri law form and Room 2082.docx
-09,खममाया बुढा  रामु दाहाल 07.23.2020.11ः00. final,चेक अनादर फिरादपत्र,open doc file,DOCWORD/खममाया बुढा  रामु दाहाल 07.23.2020.11ः00. final.docx
-10,फिरादपत्र नेन्सी महतो final,सम्बन्धविच्छेद,open doc file,DOCWORD/फिरादपत्र नेन्सी महतो final.docx
-11,विन्दु हुमेन क्षेत्री 07.23.2020.11.35.final,चेक अनादर फिरादपत्र,open doc file,DOCWORD/विन्दु हुमेन क्षेत्री 07.23.2020.11.35.final.docx
-12,सञ्जु राज भन्डारी 07.23.2020.11.35.final,चेक अनादर फिरादपत्र,open doc file,DOCWORD/सञ्जु राज भन्डारी 07.23.2020.11.35.final.docx
+01,IMG-8573479de6a7b08000e747ad56b26bbe-V,Parishramik PDF,open pdf file,DOCPDF/IMG-8573479de6a7b08000e747ad56b26bbe-V.pdf
+02,online तारेख निवेदन २०८१,Online tarekh निवेदन,open pdf file,DOCPDF/online तारेख निवेदन २०८१.pdf
+03,अधिकृत वारेसनामाको निवेदन उर्मिला अस्थायी मस्यौदाकार सहितको,Authorized वार्‍सेना निवेदन,open pdf file,DOCPDF/अधिकृत वारेसनामाको निवेदन उर्मिला अस्थायी मस्यौदाकार सहितको.pdf
+04,अधिवक्ता-तहको-२९-औं-परीक्षाको-लागि-निर्धारित-नजीरहरू,Najir examples,open pdf file,DOCPDF/अधिवक्ता-तहको-२९-औं-परीक्षाको-लागि-निर्धारित-नजीरहरू.pdf
+05,देवेन्द्र विष्ट सूचना माग गरेको निवेदन,Devendra Bist notice request,open pdf file,DOCPDF/देवेन्द्र विष्ट सूचना माग गरेको निवेदन.pdf
+06,नक्कल निवेदन नभरेको without watermark (2)-converted,Converted copy - without watermark,open pdf file,DOCPDF/नक्कल निवेदन नभरेको without watermark (2)-converted.pdf
+07,न्यायिक समितिमा पेश गरेको निवेदनपत्र final,Judicial committee submission,open pdf file,DOCPDF/न्यायिक समितिमा पेश गरेको निवेदनपत्र final..pdf
+08,फिरादपत्र नेन्सी महतो final,सम्बन्धविच्छेद,open pdf file,DOCPDF/फिरादपत्र नेन्सी महतो final.pdf
+09,मञ्जुरीनामा,Approval letter,open pdf file,DOCPDF/मञ्जुरीनामा.pdf
+10,ललितपुर निवेदन,Lalitpur request,open pdf file,DOCPDF/ललितपुर निवेदन.pdf
+11,वकालतनामा ढाँचा (देबका),Power of attorney template,open pdf file,DOCPDF/वकालतनामा ढाँचा (देबका).pdf
+12,सुचनाको हक सबन नगरपालिका (२०८०),Right to information - Sabon Municipality,open pdf file,DOCPDF/सुचनाको हक सबन नगरपालिका (२०८०).pdf
+13,सुचनाको हक,Right to information,open pdf file,DOCPDF/सुचनाको हक.pdf
 
-13,BaVinajuAsmu,dungepatan photo,open image file,Images/BaVinajuAsmu20170215_154633.jpg
-14,RamanaRajbiraj,ramanapatra,open image file,Images/RamanaRajbiraj20220525_141829.jpg
-15,Upasachib Niyukti,niyuktipatra,open image file,Images/Upasachib Niyukti 20240723_101731.jpg
-16,akaladevi3,Image,open image file,Images/akaladevi3.jpg
-17,me,Image,open image file,Images/me.png
-18,myphoto,Image,open image file,Images/myphoto.jpg
-19,prajwal bhai,Image,open image file,Images/prajwal chora 2.jpg
+14,28 bar word file editing for 29 exam,NajirNikunja - Word,open doc file,DOCWORD/28 bar word file editing for 29 exam.docx
+15,29 the Bar Exam New Najir Only,NajirNikunja - Word,open doc file,DOCWORD/29 the Bar Exam New Najir Only.docx
+16,office book entri law form and Room 2082,Book Entry - Word,open doc file,DOCWORD/office book entri law form and Room 2082.docx
+17,अदालती विवाह सम्बन्धी लेखहरु,Court marriage articles,open doc file,DOCWORD/अदालती विवाह सम्बन्धी लेखहरु.docx
+18,अधिकृत वारेसनामा हुने सृजना थापा अस्थायी मस्यौदाकार सहितको,Authorized वार्‍सेना (Srijana Thapa),open doc file,DOCWORD/अधिकृत वारेसनामा हुने  सृजना थापा अस्थायी मस्यौदाकार सहितको.docx
+19,अधिकृत वारेसनामाको निवेदन उर्मिला अस्थायी मस्यौदाकार सहितको,Authorized वार्‍सेना निवेदन - Word,open doc file,DOCWORD/अधिकृत वारेसनामाको निवेदन उर्मिला अस्थायी मस्यौदाकार सहितको.docx
+20,खममाया बुढा  रामु दाहाल 07.23.2020.11ः00. final,कागजात - Word,open doc file,DOCWORD/खममाया बुढा  रामु दाहाल 07.23.2020.11ः00. final.docx
+21,घरवहाल सम्झौता २०८१,Household agreement 2081,open doc file,DOCWORD/घरवहाल सम्झौता २०८१.docx
+22,टहरा खाली गराई पाउँ,Tahara clearance request,open doc file,DOCWORD/टहरा खाली गराई पाउँ.docx
+23,देवेन्द्र विष्ट सूचना उपलब्ध गराई पाउँ निवेदन,Devendra Bist request - Word,open doc file,DOCWORD/देवेन्द्र विष्ट सूचना उपलब्ध गराई पाउँ निवेदन.docx
+24,न्यायिक समितिमा पेश गरेको निवेदनपत्र final,Judicial committee submission - Word,open doc file,DOCWORD/न्यायिक समितिमा पेश गरेको निवेदनपत्र final..docx
+25,पुस्तकालय ल अफिस कीर्तिपुर २०८२ (राजनीतिशास्त्र; ईतिहास; जनप्रशासन; संस्कृत; कानुन),Library office Kirtipur 2082,open doc file,DOCWORD/पुस्तकालय ल अफिस कीर्तिपुर २०८२ (राजनीतिशास्त्र,ईतिहास,जनप्रशासन,संस्कृत,कानुन).docx
+26,प्रतिउतरपत्र सौरभ श्रेष्ठ,Reply letter - Saurabh Shrestha,open doc file,DOCWORD/प्रतिउतरपत्र सौरभ श्रेष्ठ.docx
+27,फिरादपत्र नेन्सी महतो final,सम्बन्धविच्छेद - Word,open doc file,DOCWORD/फिरादपत्र नेन्सी महतो final.docx
+28,बियंका बानियाँ सम्बन्धविच्छेद ALL,Biyanka Baniya divorce docs,open doc file,DOCWORD/बियंका बानियाँ सम्बन्धविच्छेद ALL.docx
+29,मिलापत्र गराई पाउँ,Settlement agreement request,open doc file,DOCWORD/मिलापत्र गराई पाउँ.docx
+30,मिलापत्र,Settlement agreement,open doc file,DOCWORD/मिलापत्र.docx
+31,म्याद बुझ्ने निवेदन,Extension request,open doc file,DOCWORD/म्याद बुझ्ने निवेदन.docx
+32,ललितपुर निवेदन- सुचनाको प्रतिलिपि उपलब्ध गराइ पाउँ,Lalitpur request - copy,open doc file,DOCWORD/ललितपुर निवेदन- सूचनाको प्रतिलिपि उपलब्ध गराइ पाउँ.docx
+33,विन्दु हुमेन क्षेत्री 07.23.2020.11.35.final,Document - Windu Humen Kshetri,open doc file,DOCWORD/विन्दु हुमेन क्षेत्री 07.23.2020.11.35.final.docx
+34,सञ्जु राज भन्डारी 07.23.2020.11.35.final,Document - Sanju Raj Bhandari,open doc file,DOCWORD/सञ्जु राज भन्डारी 07.23.2020.11.35.final.docx
+
+35,BaVinajuAsmu,dungepatan photo,open image file,Images/BaVinajuAsmu20170215_154633.jpg
+36,RamanaRajbiraj,ramanapatra,open image file,Images/RamanaRajbiraj20220525_141829.jpg
+37,Upasachib Niyukti,niyuktipatra,open image file,Images/Upasachib Niyukti 20240723_101731.jpg
+38,akaladevi3,Image,open image file,Images/akaladevi3.jpg
+39,me,Image,open image file,Images/me.png
+40,myphoto,Image,open image file,Images/myphoto.jpg
+41,prajwal bhai,Image,open image file,Images/prajwal chora 2.jpg
 
 `;
 
@@ -35,32 +58,7 @@ var data5Url2Info = {
     }
 };
 
-// Directory content arrays (for programmatic use)
-var DOCPDF_files = [
-    "IMG-8573479de6a7b08000e747ad56b26bbe-V.pdf",
-    "online तारेख निवेदन २०८१.pdf",
-    "अधिवक्ता-तहको-२९-औं-परीक्षाको-लागि-निर्धारित-नजीरहरू.pdf",
-    "फिरादपत्र नेन्सी महतो final.pdf",
-    "मञ्जुरीनामा.pdf"
-];
-
-var DOCWORD_files = [
-    "28 bar word file editing for 29 exam.docx",
-    "29 the Bar Exam New Najir Only.docx",
-    "office book entri law form and Room 2082.docx",
-    "खममाया बुढा  रामु दाहाल 07.23.2020.11ः00. final.docx",
-    "फिरादपत्र नेन्सी महतो final.docx",
-    "विन्दु हुमेन क्षेत्री 07.23.2020.11.35.final.docx",
-    "सञ्जु राज भन्डारी 07.23.2020.11.35.final.docx"
-];
-
-var Images_files = [
-    "BaVinajuAsmu20170215_154633.jpg",
-    "RamanaRajbiraj20220525_141829.jpg",
-    "Upasachib Niyukti 20240723_101731.jpg",
-    "akaladevi3.jpg",
-    "me.png",
-    "myphoto.jpg",
-    "prajwal chora 2.jpg"
-];
-
+// Export the dataset and its metadata
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = { data5Url2, data5Url2Info };
+}
